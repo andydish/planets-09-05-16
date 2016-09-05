@@ -1,5 +1,4 @@
-Mars,
-Mars, Mars, Mars,
+\
 Maaaaaaaaaaaaars,
 MARSZZZZZZ,
 MARS,
